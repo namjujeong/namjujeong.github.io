@@ -2,5 +2,5 @@
 title: titanic simulator
 date: 2025-02-11
 categories: [Project, Python]
-tags: [TAG]     # TAG names should always be lowercase
+tags: [python]     # TAG names should always be lowercase
 ---
