@@ -6,5 +6,5 @@ tags: [python]     # TAG names should always be lowercase
 ---
 
 <div class='notebook-embedded'>
-{% iframe [https://nbviewer.jupyter.org/gist/{id}/{unknown-value](https://nbviewer.org/github/namjujeong/namjujeong.github.io/blob/main/_posts/Titanic.ipynb) 100% 100% %}
+{% iframe (https://nbviewer.org/github/namjujeong/namjujeong.github.io/blob/main/_posts/Titanic.ipynb) 100% 100% %}
 </div>
